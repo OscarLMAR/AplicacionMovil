@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi Aplicacion Movil</string>
+    <string name="title_activity_splash_acitivity">SplashAcitivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="oscar_marquez">Oscar Marquez</string>
+    <string name="txt_name">Ingrese su nombre</string>
+    <string name="txt_correo">Ingrese su correo</string>
+    <string name="Button1">Ingresar</string>
+    <string name="Button2">Registrar</string>
+</resources>
